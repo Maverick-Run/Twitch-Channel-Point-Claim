@@ -4,6 +4,6 @@ This is an updated version if Sparkles-SP [Original Script](https://greasyfork.o
 
 ## Installation
 
-- Install [Tamper Monkey](https://www.tampermonkey.net) /Grease Monkey \
-- Open settings add new script \
+- Install [Tamper Monkey](https://www.tampermonkey.net) /Grease Monkey
+- Open settings add new script 
 - Copy and paste the code in 
